@@ -3,9 +3,12 @@
 - 🌱 현재는 군 휴학중으로 전역 후 BOJ 문제풀이를 해나가고 있습니다.
 - 💞️ 저는 Trendy한 개발자가 되고 싶습니다.
 - 👊🏻 좋은 코드를 만들기 위해 고민하고 또 고민하겠습니다!
-<br><br>![trophy](https://github-profile-trophy.vercel.app/?username=wontory)
-<br><br>![Wontory's github stats](https://github-readme-stats.vercel.app/api?username=wontory&show_icons=true)
-<br><br>[![Wontory's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wontory&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wontory)[![Wontory's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wontory)](https://solved.ac/profile/wontory)
+<br><br><br>
+[![Wontory's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wontory)](https://solved.ac/profile/wontory)
+<br><br><br>
+![trophy](https://github-profile-trophy.vercel.app/?username=wontory)
+<br><br>
+![Wontory's github stats](https://github-readme-stats.vercel.app/api?username=wontory&show_icons=true) [![Wontory's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wontory&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wontory)
 <!---
 wontory/wontory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
