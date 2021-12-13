@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wontory
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 안녕하세요! Wontory 입니다.
+- 👀 저는 경기대학교에서 컴퓨터공학을 전공하고 있습니다.
+- 🌱 현재는 군 휴학중으로 전역 후 BOJ 문제풀이를 해나가고 있습니다.
+- 💞️ 저의 목표는 "세련된 프로그래머"가 되는 것입니다.
+- 👊🏻 좋은 코드를 만들기 위해 고민하고 또 고민하겠습니다!
 
 [![Wontory's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wontory)](https://solved.ac/profile/wontory)
 
