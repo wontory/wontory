@@ -4,7 +4,7 @@
 - 💞️ 저는 Trendy한 개발자가 되고 싶습니다.
 - 👊🏻 좋은 코드를 만들기 위해 고민하고 또 고민하겠습니다!
 <br><br><br>
-[![Wontory's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wontory)](https://solved.ac/profile/wontory)
+[![Wontory's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Wontory)](https://solved.ac/profile/Wontory)
 <br><br><br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=wontory)
 <br><br>
