@@ -4,9 +4,14 @@
 - 💞️ 저의 목표는 "세련된 프로그래머"가 되는 것입니다.
 - 👊🏻 좋은 코드를 만들기 위해 고민하고 또 고민하겠습니다!
 
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=wontory)
+
+
 ![Wontory's github stats](https://github-readme-stats.vercel.app/api?username=wontory&show_icons=true)
 [![Wontory's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wontory&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wontory)
+
+
 [![Wontory's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wontory)](https://solved.ac/profile/wontory)
 
 <!---
