@@ -5,7 +5,7 @@
 - 👊🏻 좋은 코드를 만들기 위해 고민하고 또 고민하겠습니다!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wontory&show_icons=true&theme=radical)
-![Wontory's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wontory)](https://solved.ac/profile/wontory)
+[![Wontory's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wontory)](https://solved.ac/profile/wontory)
 
 <!---
 wontory/wontory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
