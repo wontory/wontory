@@ -1,7 +1,7 @@
 - 👋 안녕하세요! Wontory 입니다.
 - 👀 저는 경기대학교에서 컴퓨터공학을 전공하고 있습니다.
-- 🌱 현재는 군 휴학중으로 전역 후 BOJ 문제풀이를 해나가고 있습니다.
-- 💞️ 저는 Trendy한 개발자가 되고 싶습니다.
+- 🌱 군 휴학중으로 전역 후 BOJ 문제풀이를 하고 있습니다.
+- 💞️ 현재 어떤 분야의 개발자가 될 것인지 고민중이며 다양한 경험과 공부를 하고 있습니다.
 - 👊🏻 좋은 코드를 만들기 위해 고민하고 또 고민하겠습니다!
 <br><br><br>
 [![Wontory's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Wontory)](https://solved.ac/profile/Wontory)
