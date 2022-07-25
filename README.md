@@ -8,7 +8,3 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=wontory)
 <br><br>
 ![Wontory's github stats](https://github-readme-stats.vercel.app/api?username=wontory&show_icons=true) [![Wontory's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wontory&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wontory)
-<!---
-wontory/wontory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
