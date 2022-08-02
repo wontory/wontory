@@ -7,7 +7,7 @@
   
 &nbsp;  
   
-## Tech Stack
+## 🛠︎ &nbsp; Tech Stack &nbsp; 🛠︎
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=C&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=Java&logoColor=white&style=flat)
@@ -25,7 +25,7 @@
   
 &nbsp;  
   
-## Github Stats
+## 📊 &nbsp; Github Stats &nbsp; 📊
 
 [![Overview](https://raw.githubusercontent.com/wontory/github-stats-transparent/output/generated/overview.svg)](https://github.com/wontory)
 [![Languages](https://raw.githubusercontent.com/wontory/github-stats-transparent/output/generated/languages.svg)](https://github.com/wontory)
