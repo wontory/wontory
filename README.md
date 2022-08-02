@@ -22,6 +22,6 @@
   
 ## Github Stats
 
-![Overview](https://raw.githubusercontent.com/wontory/github-stats-transparent/output/generated/overview.svg)
-![Languages](https://raw.githubusercontent.com/wontory/github-stats-transparent/output/generated/languages.svg)
+[![Overview](https://raw.githubusercontent.com/wontory/github-stats-transparent/output/generated/overview.svg)](https://github.com/wontory)
+[![Languages](https://raw.githubusercontent.com/wontory/github-stats-transparent/output/generated/languages.svg)](https://github.com/wontory)
 </div>
