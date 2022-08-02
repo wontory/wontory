@@ -1,6 +1,6 @@
 <div align=center>
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=fadeIn&height=230&section=header&text=Hi!%20I'm%20Wontory.&desc=I%20am%20interested%20in%20Animation%20and%20Interaction.&fontSize=65&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/wontory)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=fadeIn&height=230&section=header&text=Hi!%20I'm%20Wontory.&desc=I%20am%20interested%20in%20Animation%20and%20Interaction.&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/wontory)
 
 ## Tech Stack
 
