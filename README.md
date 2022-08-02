@@ -12,10 +12,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=white&style=flat-square)  
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white&style=flat-square)
 
-### Test
+### Testing
 
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?logo=Jest&logoColor=white&style=flat-square)
 
@@ -37,7 +35,6 @@
 ![Github](https://img.shields.io/badge/Github-181717.svg?logo=Github&logoColor=white&style=flat-square)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=Notion&logoColor=white&style=flat-square)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?logo=Slack&logoColor=white&style=flat-square)
-![Trello](https://img.shields.io/badge/Trello-0052CC.svg?logo=Trello&logoColor=white&style=flat-square)
 
 ### Blog
 
