@@ -17,4 +17,11 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF.svg?logo=AdobePhotoshop&logoColor=white&style=flat)
 ![Adobe XD](https://img.shields.io/badge/Adobe&nbsp;XD-FF61F6.svg?logo=AdobeXD&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=Figma&logoColor=white&style=flat)  
+  
+&nbsp;  
+  
+## Github Stats
+
+![Overview](https://raw.githubusercontent.com/wontory/github-stats-transparent/output/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/wontory/github-stats-transparent/output/generated/languages.svg)
 </div>
