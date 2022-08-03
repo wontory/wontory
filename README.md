@@ -3,7 +3,8 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=fadeIn&height=230&section=header&text=Hi!%20I'm%20Wontory.&desc=I%20am%20interested%20in%20Animation%20and%20Interaction.&fontSize=60&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/wontory)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwontory%2Fhit-counter&count_bg=%236196FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/wontory)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wontory)](https://solved.ac/wontory)  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wontory)](https://solved.ac/wontory)
+[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wontory.github.io/)](https://wontory.github.io/)  
   
 &nbsp;  
   
