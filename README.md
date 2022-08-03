@@ -4,7 +4,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwontory%2Fhit-counter&count_bg=%236196FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/wontory)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wontory)](https://solved.ac/wontory)
-[![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wontory.github.io/)](https://wontory.github.io/)  
+[![Tech Blog](http://img.shields.io/badge/Tech%20Blog-FF4088?style=flat&logo=hugo&logoColor=white&label=Hugo&labelColor=%23555555&link=https://wontory.github.io/)](https://wontory.github.io/)  
   
 &nbsp;  
   
