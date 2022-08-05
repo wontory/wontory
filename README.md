@@ -16,9 +16,9 @@
 다양한 **테스트 도구**를 활용한 **TDD(Test-Driven Development)**,  
 **애니메이션**과 **인터랙션**을 활용한 **UI / UX 개선**에 관심이 있습니다.  
 
-저는 현재 **React**와 **자바스크립트**를 공부하고 있습니다.  
-앞으로 공부하고 싶은 것은 **TypeScript**와 **Vue.js**입니다.  
-배움의 자세를 잃지 않는 개발자가 되겠습니다.
+저는 현재 **React**와 **Jest**, **JavaScript**를 공부하고 있습니다.  
+앞으로 공부하고 싶은 것은 **TypeScript**와 **Three.js**, **Next.js**입니다.  
+**배움의 자세를 잃지 않는 개발자**가 되겠습니다.
   
 &nbsp;  
   
@@ -26,7 +26,8 @@
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=C&logoColor=black&style=flat)
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white&style=flat)  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white&style=flat)
+![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=Markdown&logoColor=white&style=flat)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=black&style=flat)
