@@ -7,6 +7,26 @@
   
 &nbsp;  
   
+### 🥰 &nbsp; Introduction
+안녕하세요!  
+제 프로필에 오신 것을 환영합니다!  
+
+저는 **Wontory**라고 합니다.  
+**경기대학교 2학년**에 재학중이고,  
+관심 분야는 **프론트엔드**, **UX 엔지니어링**입니다.  
+
+**React 프레임워크**를 이용한  
+**SPA(Single Page Application)** 구현,  
+**애니메이션**과 **인터랙션**을 활용한  
+**UI / UX 개선**에 관심이 있습니다.  
+
+저의 롤 모델은  
+**Interactive Developer**<sup>김종민</sup>님이고,  
+제가 현재 공부하고 있는 것은  
+**React**와 **자바스크립트**입니다.
+  
+&nbsp;  
+  
 ### 🛠︎ &nbsp; Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=C&logoColor=black&style=flat)
