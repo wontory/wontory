@@ -16,8 +16,6 @@
 다양한 **테스트 도구**를 활용한 **TDD(Test-Driven Development)**,  
 **애니메이션**과 **인터랙션**을 활용한 **UI / UX 개선**에 관심이 있습니다.  
 
-저는 현재 **React**와 **Jest**, **JavaScript**를 공부하고 있습니다.  
-앞으로 공부하고 싶은 것은 **TypeScript**, **Next.js**, **Three.js**입니다.  
 **배움의 자세를 잃지 않는 개발자**가 되겠습니다.
   
 &nbsp;  
