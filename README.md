@@ -20,6 +20,12 @@
   
 &nbsp;  
   
+### 🏆 &nbsp; Certificate
+![CSTS](https://img.shields.io/badge/CSTS-40AEF0.svg?style=for-the-badge)
+![SQLD](https://img.shields.io/badge/SQLD-006600.svg?style=for-the-badge)
+  
+&nbsp;  
+  
 ### 🛠︎ &nbsp; Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=C&logoColor=black&style=flat)
