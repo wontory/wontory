@@ -21,7 +21,7 @@
 &nbsp;  
   
 ### 🏆 &nbsp; Certificate
-![CSTS](https://img.shields.io/badge/CSTS-40AEF0.svg?style=for-the-badge)
+![CSTS FL](https://img.shields.io/badge/CSTS%20FL-40AEF0.svg?style=for-the-badge)
 ![SQLD](https://img.shields.io/badge/SQLD-006600.svg?style=for-the-badge)
   
 &nbsp;  
