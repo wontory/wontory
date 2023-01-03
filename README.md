@@ -28,17 +28,11 @@
   
 ### 🛠︎ &nbsp; Tech Stack
 
-![C](https://img.shields.io/badge/C-A8B9CC.svg?logo=C&logoColor=black&style=flat)
-![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=Markdown&logoColor=white&style=flat)  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white&style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white&style=flat)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?logo=YOLO&logoColor=black&style=flat)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=black&style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=Vue.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black&style=flat)
-![Jest](https://img.shields.io/badge/Jest-C21325.svg?logo=Jest&logoColor=white&style=flat)  
-![Java](https://img.shields.io/badge/Java-007396.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAAC1klEQVRIieWWy4tUVxDGfzXGMRlFHV/oiPhCQYZB1BDiEx1ciI9VdsaNC0V0oyFZ6SYoJP4DBkIMuFA34kKIWQRE8YGi6EJFRScxPogkRI0zGNSMvyzOaWjb6Zl7TceNBRf6Vp/6Purcqq8KGmDqJHVkmZimRhAD84CVb5VYHQfsBp79V6wypO3qjfw0vy3SDWqP+kSdl30j1HXqLnV6owmHq4dM1q0uyf6t+f2Q2tpo0iHq2Uz6WF2Q/Ruzb7caDSXNBOszQa+6qMp/Xn2mDiqKVbaqK9kciYhTVf4eoBmYXRKvmKlD1VvqFbWpyr9Mfanu+1+IM8ks9Tf10xr/fvVqUZzSAhIR14CPgDXq8Kq//gC+LYvXr6kT1aVqpzoi+warM/PvoWpnTUybulqd/CaEn6i3cyXvV1sGOD9InaA2qXPVferf6pyyxJuzMlWsW+1SL6ln1AtVz2X1uDq/Kv793Hrba7Hf6484Ivao3wFrgcXAWVJLdQP/AM+BO8DtiHjUB0QHqY5+fQ27QNbtwEVS8XwDXAUk9e1gYAppLDYBn0XELzmuBTgNvAAWRcTzgbhqiYeoX6rX7dt61ZvqXnV5jmnNNfG1Oqwv3MK6mgtkB7ATqEjjE+CvnHF3Rc3UscDDiOgtlWUd4is5wwfqSdOwuJU12qxcnxfFK5PxQmAbMBcYm909wE3gEnAU+CkiXhZP51WCNvWY+jT34Yw3wJilriob9EW+unOWGHNV8a3qYfX7/s69dtVqG+naZgNdwI+ktrgH3CUVVMVaSNc+AZgDfAx0AmeAdRHxe8Zsrm2nPr+xaeStIK2sHUA7MLpeksDPpF6/CPwQEZercLYAXRFxtL8bqGumRW6iOi3r8FTrLPHqB+raLKNfWXYdylo71QFWV9Ok6lA3qQfVP9UD6of1YopIZjOwAJgBjALGAJNIEjkMGJ+P3geuAyeAUxHxuEhy7479CzDReAJhB6COAAAAAElFTkSuQmCC&style=flat)
+![Jest](https://img.shields.io/badge/Jest-C21325.svg?logo=Jest&logoColor=white&style=flat)
 ![JSP](https://img.shields.io/badge/JSP-F8DC75.svg?logo=ApacheTomcat&logoColor=black&style=flat)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=Spring&logoColor=white&style=flat)  
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF.svg?logo=AdobePhotoshop&logoColor=white&style=flat)
