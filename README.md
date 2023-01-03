@@ -30,9 +30,9 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white&style=flat)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?logo=YOLO&logoColor=black&style=flat)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=Vue.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black&style=flat)
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?logo=Jest&logoColor=white&style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=Vue.js&logoColor=white&style=flat)
 ![JSP](https://img.shields.io/badge/JSP-F8DC75.svg?logo=ApacheTomcat&logoColor=black&style=flat)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=Spring&logoColor=white&style=flat)  
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF.svg?logo=AdobePhotoshop&logoColor=white&style=flat)
