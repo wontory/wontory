@@ -28,6 +28,7 @@
   
 ### 🛠︎ &nbsp; Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white&style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white&style=flat)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?logo=YOLO&logoColor=black&style=flat)  
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black&style=flat)
