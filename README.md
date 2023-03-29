@@ -12,7 +12,7 @@
 저는 **경기대학교 3학년, 컴퓨터공학**을 전공하고 있는 **조성원**입니다.  
 
 관심 분야는 **프론트엔드**, **UX 엔지니어링**이며,  
-**React 프레임워크**를 이용한 **SPA(Single Page Application)** 구현,  
+**React 라이브러리**를 이용한 **SPA(Single Page Application)** 구현,  
 다양한 **테스트 도구**를 활용한 **TDD(Test-Driven Development)**,  
 **애니메이션**과 **인터랙션**을 활용한 **UI / UX 개선**에 관심이 있습니다.  
 
