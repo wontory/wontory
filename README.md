@@ -38,7 +38,6 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=Spring&logoColor=white&style=flat)  
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF.svg?logo=AdobePhotoshop&logoColor=white&style=flat)
 ![Adobe XD](https://img.shields.io/badge/Adobe&nbsp;XD-FF61F6.svg?logo=AdobeXD&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=Figma&logoColor=white&style=flat)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=Kubernetes&logoColor=white&style=flat)  
   
