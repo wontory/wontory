@@ -27,19 +27,18 @@
 &nbsp;  
   
 ### 🛠︎ &nbsp; Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white&style=flat)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF.svg?logo=YOLO&logoColor=black&style=flat)  
+![Berry](https://img.shields.io/badge/Berry-2C8EBB.svg?logo=Yarn&logoColor=white&style=flat)
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?logo=Vite&logoColor=white&style=flat)  
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black&style=flat)
-![Jest](https://img.shields.io/badge/Jest-C21325.svg?logo=Jest&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=Vue.js&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white&style=flat)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=Spring&logoColor=white&style=flat)  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF.svg?logo=AdobePhotoshop&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=Figma&logoColor=white&style=flat)  
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?logo=Express&logoColor=white&style=flat)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=Kubernetes&logoColor=white&style=flat)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=Kubernetes&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=AmazonAWS&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=Vercel&logoColor=white&style=flat)  
+![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF.svg?logo=AdobePhotoshop&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=Figma&logoColor=white&style=flat)
   
 &nbsp;  
   
