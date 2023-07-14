@@ -29,6 +29,8 @@
 ### 🛠︎ &nbsp; Tech Stack
 ![Berry](https://img.shields.io/badge/Berry-2C8EBB.svg?logo=Yarn&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?logo=Vite&logoColor=white&style=flat)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white&style=flat)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093.svg?logo=styled-components&logoColor=white&style=flat)  
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=Vue.js&logoColor=white&style=flat)
