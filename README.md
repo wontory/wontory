@@ -22,8 +22,7 @@
   
 ### 🏆 &nbsp; Certificate & Awards
 ![CSTS FL](https://img.shields.io/badge/CSTS%20FL-40AEF0.svg?style=for-the-badge)
-![SQLD](https://img.shields.io/badge/SQLD-006600.svg?style=for-the-badge)
-
+![SQLD](https://img.shields.io/badge/SQLD-006600.svg?style=for-the-badge)  
 [![Unieum](https://img.shields.io/badge/apis:unieum-제2회_교원그룹_AI_챌린지_대상-FFAA00?style=for-the-badge)](https://aifactory.space/competition/2512/discussion/503)
   
 &nbsp;  
