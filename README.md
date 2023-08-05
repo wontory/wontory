@@ -23,7 +23,7 @@
 ### 🏆 &nbsp; Certificate & Awards
 ![CSTS FL](https://img.shields.io/badge/CSTS%20FL-40AEF0.svg?style=for-the-badge)
 ![SQLD](https://img.shields.io/badge/SQLD-006600.svg?style=for-the-badge)  
-[![Unieum](https://img.shields.io/badge/apis:unieum-제2회_교원그룹_AI_챌린지_대상-FFAA00?style=for-the-badge)](https://unieum.kr)
+[![Unieum](https://img.shields.io/badge/apis:unieum-제2회_교원그룹_AI_챌린지_대상-FFAA00?style=for-the-badge)](https://github.com/wontory/wontory/blob/master/documents/%E1%84%8C%E1%85%A62%E1%84%92%E1%85%AC%20%E1%84%80%E1%85%AD%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%B3%E1%84%85%E1%85%AE%E1%86%B8%20AI%E1%84%8E%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5%20%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC%20%E1%84%83%E1%85%A2%E1%84%89%E1%85%A1%E1%86%BC.pdf)
   
 &nbsp;  
   
