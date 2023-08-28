@@ -11,10 +11,10 @@
 안녕하세요! 제 Github 프로필에 오신 것을 환영합니다!  
 저는 **경기대학교 3학년, 컴퓨터공학**을 전공하고 있는 **조성원**입니다.  
 
-관심 분야는 **프론트엔드**, **UX 엔지니어링**이며,  
-**React 라이브러리**를 이용한 **SPA(Single Page Application)** 구현,  
-다양한 **테스트 도구**를 활용한 **TDD(Test-Driven Development)**,  
-**애니메이션**과 **인터랙션**을 활용한 **UI / UX 개선**에 관심이 있습니다.  
+현재 저는 ***풀스택 개발자*** 를 목표로 공부하고 있으며,  
+**React 라이브러리 및 관련 프레임워크**를 이용한 **클라이언트 개발**,  
+**애니메이션**과 **인터랙션**을 활용한 **UI / UX 개선**,  
+**AWS 인프라 구축** 및 **Node.js 환경 API 개발** 에 관심이 있습니다.  
 
 **배움의 자세를 잃지 않는 개발자**가 되겠습니다.
   
@@ -34,9 +34,8 @@
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093.svg?logo=styled-components&logoColor=white&style=flat)  
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white&style=flat)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=Vue.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/Express.js-000000.svg?logo=Express&logoColor=white&style=flat)  
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=AmazonAWS&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/Express-000000.svg?logo=Express&logoColor=white&style=flat)<!--![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?logo=NestJS&logoColor=white&style=flat)  -->  
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=AmazonAWS&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=Vercel&logoColor=white&style=flat)  
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF.svg?logo=AdobePhotoshop&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=Figma&logoColor=white&style=flat)
