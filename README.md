@@ -28,18 +28,20 @@
 &nbsp;  
   
 ### 🛠︎ &nbsp; Tech Stack
+![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF.svg?logo=AdobePhotoshop&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=Figma&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white&style=flat)
 ![Berry](https://img.shields.io/badge/Berry-2C8EBB.svg?logo=Yarn&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?logo=Vite&logoColor=white&style=flat)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white&style=flat)
-![styled-components](https://img.shields.io/badge/styled--components-DB7093.svg?logo=styled-components&logoColor=white&style=flat)  
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/Express-000000.svg?logo=Express&logoColor=white&style=flat)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?logo=NestJS&logoColor=white&style=flat)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white&style=flat)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093.svg?logo=styled-components&logoColor=white&style=flat)  
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=AmazonAWS&logoColor=white&style=flat)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=Vercel&logoColor=white&style=flat)  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF.svg?logo=AdobePhotoshop&logoColor=white&style=flat)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=Figma&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=Vercel&logoColor=white&style=flat)
   
 &nbsp;  
   
