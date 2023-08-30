@@ -30,7 +30,7 @@
 ### 🛠︎ &nbsp; Tech Stack
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF.svg?logo=AdobePhotoshop&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=Figma&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white&style=flat)
 ![Berry](https://img.shields.io/badge/Berry-2C8EBB.svg?logo=Yarn&logoColor=white&style=flat)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?logo=Vite&logoColor=white&style=flat)  
