@@ -52,8 +52,6 @@
 
 &nbsp;  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wontory)  
-
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&animation=fadeIn&section=footer)](https://github.com/wontory)
 
 </div>
