@@ -47,7 +47,6 @@
   
 ### ✉ &nbsp; Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:devwontory@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jo_saeng/)
 [![Devlog](https://img.shields.io/badge/Devlog-FF4088?style=flat&logo=hugo&logoColor=white)](https://wontory.github.io/profile/)
 
 &nbsp;  
