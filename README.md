@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://dummyimage.com/300x300/000/fff" />
-  <h1>Hi! I'm Wontory</h1>
+  <img src="images/memoji.png" width="300" height="300" />
+  <h1>👋🏻 Hi! I'm Wontory.</h1>
   <p>A Front-End Developer from South Korea</p>
     
   ![Animations](https://img.shields.io/badge/animations-grey?style=for-the-badge&color=red)
