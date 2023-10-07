@@ -9,7 +9,7 @@
   ![WebGL/GPU](https://img.shields.io/badge/webgl/gpu-grey?style=for-the-badge&color=blue)
 </div>
 
-<img align="right" alt="Coding" width="444" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/400/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 ### Experiences
 **CS-HOME (2023.01.01 ~ Current)**
