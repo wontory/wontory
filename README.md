@@ -8,3 +8,17 @@
   ![Web Client](https://img.shields.io/badge/web_client-grey?style=for-the-badge&color=green)
   ![WebGL/GPU](https://img.shields.io/badge/webgl/gpu-grey?style=for-the-badge&color=blue)
 </div>
+
+<img align="right" alt="Coding" width="444" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+### Experiences
+**CS-HOME (2023.01.01 ~ Current)**
+> - 8th Team Leader
+> - Group Project Room Reservation System
+
+**Team APIS (2023.06.22 ~ Current)**
+> - Front-End Developer
+> - Unieum (2nd KYOWON Group AI Challenge 🥇)
+
+### Languages & Tools
+<img src="/images/react-color.svg" width="40" /> &nbsp; <img src="/images/tailwindcss-color.svg" width="40" /> &nbsp; <img src="/images/threedotjs-color.svg" width="40" /> &nbsp; <img src="/images/nestjs-color.svg" width="40" /> &nbsp; <img src="/images/amazonaws-color.svg" width="40" />
