@@ -18,7 +18,7 @@
 
 **Team APIS (2023.06.22 ~ Current)**
 > - Front-End Developer
-> - Unieum (2nd KYOWON Group AI Challenge 🥇)
+> - [Unieum](https://www.unieum.kr/) ([2nd KYOWON Group AI Challenge 🥇](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf))
 
 ### Languages & Tools
-<img src="/images/javascript-color.svg" width="40" /> &nbsp; <img src="/images/react-color.svg" width="40" /> &nbsp; <img src="/images/tailwindcss-color.svg" width="40" /> &nbsp; <img src="/images/threedotjs-color.svg" width="40" /> &nbsp; <img src="/images/nestjs-color.svg" width="40" /> &nbsp; <img src="/images/amazonaws-color.svg" width="40" /> &nbsp; <img src="/images/visualstudiocode-color.svg" width="40" /> &nbsp; <img src="/images/figma-color.svg" width="40" /> &nbsp; <img src="/images/slack-color.svg" width="40" /> &nbsp; <img src="/images/notion-color.svg" width="40" />
+<img src="/images/javascript-color.svg" width="40" /> &nbsp; <img src="/images/typescript-color.svg" width="40" /> &nbsp; <img src="/images/react-color.svg" width="40" /> &nbsp; <img src="/images/tailwindcss-color.svg" width="40" /> &nbsp; <img src="/images/threedotjs-color.svg" width="40" /> &nbsp; <img src="/images/nestjs-color.svg" width="40" /> &nbsp; <img src="/images/amazonaws-color.svg" width="40" /> &nbsp; <img src="/images/visualstudiocode-color.svg" width="40" /> &nbsp; <img src="/images/figma-color.svg" width="40" /> &nbsp; <img src="/images/slack-color.svg" width="40" /> &nbsp; <img src="/images/notion-color.svg" width="40" />
