@@ -22,7 +22,12 @@
 
 > - Front-End Developer
 > - [Unieum](https://www.unieum.kr/) ([2nd KYOWON Group AI Challenge 🥇](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf))
+>
+
+**Dynamic Developer Designer (2023.11.25 ~ 2024.03.02)**
+
+> - 10th Web Front-End Developer
 
 ### Languages & Tools
 
-<img src="/images/yarn-color.png" width="60" /><img src="/images/javascript-color.png" width="60" /><img src="/images/typescript-color.png" width="60" /><img src="/images/react-color.png" width="60" /><img src="/images/redux-color.png" width="60" /><img src="/images/tailwindcss-color.png" width="60" /><img src="/images/threedotjs-color.png" width="60" /><img src="/images/nestjs-color.png" width="60" /><img src="/images/amazonaws-color.png" width="60" /><img src="/images/visualstudiocode-color.png" width="60" /><img src="/images/figma-color.png" width="60" /><img src="/images/slack-color.png" width="60" /><img src="/images/notion-color.png" width="60" />
+<img src="/images/yarn-color.png" width="60" /><img src="/images/javascript-color.png" width="60" /><img src="/images/typescript-color.png" width="60" /><img src="/images/react-color.png" width="60" /><img src="/images/nextdotjs-color.png" width="60" /><img src="/images/redux-color.png" width="60" /><img src="/images/tailwindcss-color.png" width="60" /><img src="/images/threedotjs-color.png" width="60" /><img src="/images/nestjs-color.png" width="60" /><img src="/images/amazonaws-color.png" width="60" /><img src="/images/visualstudiocode-color.png" width="60" /><img src="/images/figma-color.png" width="60" /><img src="/images/slack-color.png" width="60" /><img src="/images/notion-color.png" width="60" />
