@@ -16,7 +16,7 @@
 **CS-HOME (2023.01.01 ~ Current)**
 
 > - 8th Team Leader
-<!--> - [Group Project Room Reservation System](https://dev-tproom-reserve.vercel.app/) (WIP)-->
+<!-- > - [Group Project Room Reservation System](https://dev-tproom-reserve.vercel.app/) (WIP) -->
 
 **Team APIS (2023.06.22 ~ Current)**
 
