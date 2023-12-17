@@ -13,18 +13,18 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/400/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-**CS-HOME <sub>_(2023.01.01 ~ Current)_</sub>**
+**CS-HOME <sub>_2023.01.01 ~ Current_</sub>**
 
 > - 8th Team Leader
-> - [Group Project Room Reservation System](http://cs.kyonggi.ac.kr:8080/teamprojectroom/) _(Deploying)_
+> - [Group Project Room Reservation System](http://cs.kyonggi.ac.kr:8080/teamprojectroom/) <sub>_Deploying_</sub>
 
-**Team APIS <sub>_(2023.06.22 ~ Current)_</sub>**
+**Team APIS <sub>_2023.06.22 ~ Current_</sub>**
 
 > - Front-End Developer
-> - [Unieum](https://www.unieum.kr/) ([2nd KYOWON Group AI Challenge 🥇](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf))
+> - [Unieum](https://www.unieum.kr/) <sub>[_2nd KYOWON Group AI Challenge 🥇_](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf)</sub>
 >
 
-**Dynamic Developer Designer <sub>_(2023.11.25 ~ 2024.03.02)_</sub>**
+**Dynamic Developer Designer <sub>_2023.11.25 ~ 2024.03.02_</sub>**
 
 > - 10th Web Front-End Developer
 
