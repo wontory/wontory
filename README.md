@@ -12,7 +12,7 @@
 ### Experiences
 
 <details>
-<summary>&ensp;<strong>CS-HOME</strong> 8th Team Leader <sub>23.01 ~ Current</sub></summary>
+<summary>&ensp;<strong>CS-HOME</strong> 8th Team Leader <sub>23.01 ~ </sub></summary>
   
   > 
 </details>
