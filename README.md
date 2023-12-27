@@ -15,8 +15,20 @@
 
 ### Experiences
 
-- **8th CS-HOME:** Leader <sub>_2023.01.01 ~ Current_</sub>
-- **Team APIS:** Frontend Developer <sub>_2023.06.22 ~ Current_</sub>
-  - **[Unieum](https://www.unieum.kr/)** - [교원 AI챌린지 대상 🥇](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf)
-- **10th DDD:** Web Frontend Developer <sub>_2023.11.25 ~ 2024.03.02_</sub>
+<details>
+<summary>&ensp;<strong>CS-HOME</strong> 8th Team Leader <sub>23.01 ~ Current</sub></summary>
+  
+  > 
+</details>
 
+<details>
+<summary>&ensp;<strong>APIS</strong> Frontend Developer <sub>23.06 ~ 23.08</sub></summary>
+  
+  > [Unieum](https://www.unieum.kr/) - [KYOWON AI Challenge 🥇](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf)  
+</details>
+
+<details>
+<summary>&ensp;<strong>Dynamic Developer Designer</strong> 10th Web Frontend Developer <sub>23.11 ~ 24.03</sub></summary>
+  
+  > 
+</details>
