@@ -9,25 +9,14 @@
   ![WebGL/GPU](https://img.shields.io/badge/webgl/gpu-grey?style=for-the-badge&color=blue)
 </div>
 
-### Experiences
-
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/400/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-
-**CS-HOME <sub>_2023.01.01 ~ Current_</sub>**
-
-> - 8th Team Leader
-> - [Group Project Room Reservation System](http://cs.kyonggi.ac.kr:8080/teamprojectroom/) <sub>_Deploying_</sub>
-
-**Team APIS <sub>_2023.06.22 ~ Current_</sub>**
-
-> - Front-End Developer
-> - [Unieum](https://www.unieum.kr/) <sub>[_2nd KYOWON Group AI Challenge 🥇_](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf)</sub>
->
-
-**Dynamic Developer Designer <sub>_2023.11.25 ~ 2024.03.02_</sub>**
-
-> - 10th Web Front-End Developer
-
-### Languages & Tools
+### I'm interested in...
 
 <img src="/images/yarn-color.png" width="60" /><img src="/images/javascript-color.png" width="60" /><img src="/images/typescript-color.png" width="60" /><img src="/images/react-color.png" width="60" /><img src="/images/nextdotjs-color.png" width="60" /><img src="/images/redux-color.png" width="60" /><img src="/images/tailwindcss-color.png" width="60" /><img src="/images/threedotjs-color.png" width="60" /><img src="/images/nestjs-color.png" width="60" /><img src="/images/amazonaws-color.png" width="60" /><img src="/images/visualstudiocode-color.png" width="60" /><img src="/images/figma-color.png" width="60" /><img src="/images/slack-color.png" width="60" /><img src="/images/notion-color.png" width="60" />
+
+### Experiences
+
+- **8th CS-HOME:** Leader <sub>_2023.01.01 ~ Current_</sub>
+- **Team APIS:** Frontend Developer <sub>_2023.06.22 ~ Current_</sub>
+  - **[Unieum](https://www.unieum.kr/)** - [교원 AI챌린지 대상 🥇](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf)
+- **10th DDD:** Web Frontend Developer <sub>_2023.11.25 ~ 2024.03.02_</sub>
+
