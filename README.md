@@ -9,10 +9,6 @@
   ![WebGL/GPU](https://img.shields.io/badge/webgl/gpu-grey?style=for-the-badge&color=blue)
 </div>
 
-### Languages & Tools
-
-<img src="/images/yarn-color.png" width="60" /><img src="/images/javascript-color.png" width="60" /><img src="/images/typescript-color.png" width="60" /><img src="/images/react-color.png" width="60" /><img src="/images/nextdotjs-color.png" width="60" /><img src="/images/redux-color.png" width="60" /><img src="/images/tailwindcss-color.png" width="60" /><img src="/images/threedotjs-color.png" width="60" /><img src="/images/nestjs-color.png" width="60" /><img src="/images/amazonaws-color.png" width="60" /><img src="/images/visualstudiocode-color.png" width="60" /><img src="/images/figma-color.png" width="60" /><img src="/images/slack-color.png" width="60" /><img src="/images/notion-color.png" width="60" />
-
 ### Experiences
 
 <details>
@@ -32,3 +28,7 @@
   
   > 
 </details>
+
+### Languages & Tools
+
+<img src="/images/yarn-color.png" width="60" /><img src="/images/javascript-color.png" width="60" /><img src="/images/typescript-color.png" width="60" /><img src="/images/react-color.png" width="60" /><img src="/images/nextdotjs-color.png" width="60" /><img src="/images/redux-color.png" width="60" /><img src="/images/tailwindcss-color.png" width="60" /><img src="/images/threedotjs-color.png" width="60" /><img src="/images/nestjs-color.png" width="60" /><img src="/images/amazonaws-color.png" width="60" /><img src="/images/visualstudiocode-color.png" width="60" /><img src="/images/figma-color.png" width="60" /><img src="/images/slack-color.png" width="60" /><img src="/images/notion-color.png" width="60" />
