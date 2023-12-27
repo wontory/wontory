@@ -24,7 +24,7 @@
 </details>
 
 <details>
-<summary>&ensp;<strong>Dynamic Developer Designer</strong> 10th Web Frontend Developer <sub>23.11 ~ 24.03</sub></summary>
+<summary>&ensp;<strong>DDD</strong> 10th Web Frontend Developer <sub>23.11 ~ 24.03</sub></summary>
   
   > 
 </details>
