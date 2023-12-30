@@ -12,15 +12,16 @@
 ### Experiences
 
 <details>
-<summary>&ensp;<strong>CS-HOME</strong> 8th Team Leader <sub>23.01 ~ </sub></summary>
-  
-  > 
+<summary>&ensp;<strong>KGU</strong> Dept. of Computer Science and Engineering <sub>19.03 ~ </sub></summary>
+
+  > - **Grade** 3.86 / 4.5 (3.94)
+  > - [**CS-HOME**](https://github.com/KGU-CS-HOME) 8th Team Leader <sub>23.01 ~ </sub>
 </details>
 
 <details>
 <summary>&ensp;<strong>APIS</strong> Frontend Developer <sub>23.06 ~ 23.08</sub></summary>
   
-  > [Unieum](https://www.unieum.kr/) - [KYOWON AI Challenge 🥇](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf)  
+  > - [**Unieum**](https://www.unieum.kr/) [KYOWON AI Challenge 🥇](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf)  
 </details>
 
 <details>
