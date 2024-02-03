@@ -21,13 +21,13 @@
 <details>
 <summary>&ensp;<strong>APIS</strong> Frontend Developer <sub>23.06 ~ 23.08</sub></summary>
   
-  > - [**Unieum**](https://www.unieum.kr/) [KYOWON AI Challenge 🥇](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf)  
+  > - [**Unieum**](https://www.unieum.kr/) &nbsp; | &nbsp; [KYOWON AI Challenge 🥇](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf)  
 </details>
 
 <details>
 <summary>&ensp;<strong>DDD</strong> 10th Web Frontend Developer <sub>23.11 ~ 24.03</sub></summary>
   
-  > 
+  > - [**WaggleWaggle**](https://waggle-dev.vercel.app/) &nbsp; | &nbsp; [Repository](https://github.com/DDD-Community/DDD-10-WABLE-WEB)
 </details>
 
 ### Languages & Tools
