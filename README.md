@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/memoji.png" width="300" height="300" />
+  <img src="images/memoji.png" width="200" height="200" />
   <h1>👋🏻 Hi! I'm Wontory.</h1>
   <p>A Front-End Developer from South Korea</p>
     
