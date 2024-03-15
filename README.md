@@ -27,7 +27,7 @@
 <details>
 <summary>&ensp;<strong>DDD</strong> 10th Web Frontend Developer <sub>23.11 ~ 24.03</sub></summary>
   
-  > - [**WaggleWaggle**](https://waggle-dev.vercel.app/) &nbsp; | &nbsp; [Repository](https://github.com/DDD-Community/DDD-10-WABLE-WEB)
+  > - [**WaggleWaggle**](https://waggle-dev.vercel.app/)(Rebuilding) &nbsp; | &nbsp; [Repository](https://github.com/DDD-Community/DDD-10-WABLE-WEB)
 </details>
 
 ### Languages & Tools
