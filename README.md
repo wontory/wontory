@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <img src="images/memoji.png" width="200" height="200" />
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! I'm Wontory.</h1>
@@ -33,3 +34,10 @@
 ### Languages & Tools
 
 <img src="/images/pnpm-color.png" width="60" /><img src="/images/yarn-color.png" width="60" /><img src="/images/javascript-color.png" width="60" /><img src="/images/typescript-color.png" width="60" /><img src="/images/react-color.png" width="60" /><img src="/images/nextdotjs-color.png" width="60" /><img src="/images/astro-color.png" width="60" /><img src="/images/axios-color.png" width="60" /><img src="/images/redux-color.png" width="60" /><img src="/images/reactquery-color.png" width="60" /><img src="/images/tailwindcss-color.png" width="60" /><img src="/images/threedotjs-color.png" width="60" /><img src="/images/nestjs-color.png" width="60" /><img src="/images/amazonaws-color.png" width="60" /><img src="/images/visualstudiocode-color.png" width="60" /><img src="/images/figma-color.png" width="60" /><img src="/images/slack-color.png" width="60" /><img src="/images/notion-color.png" width="60" />
+-->
+
+<img
+  src="https://render.gitanimals.org/farms/wontory"
+  width="600"
+  height="300"
+/>
