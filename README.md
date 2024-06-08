@@ -1,35 +1,10 @@
-<div align="center">
-  <img src="images/memoji.png" width="200" height="200" />
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! I'm Wontory.</h1>
-  <p>A Front-End Developer from South Korea</p>
-    
-  ![Animations](https://img.shields.io/badge/animations-grey?style=for-the-badge&color=red)
-  ![UI/UX](https://img.shields.io/badge/ui/ux-grey?style=for-the-badge&color=yellow)
-  ![Web Client](https://img.shields.io/badge/web_client-grey?style=for-the-badge&color=green)
-  ![WebGL/GPU](https://img.shields.io/badge/webgl/gpu-grey?style=for-the-badge&color=blue)
-</div>
 
-### Experiences
-
-<details>
-<summary>&ensp;<strong>KGU</strong> Dept. of Computer Science and Engineering <sub>19.03 ~ </sub></summary>
-
-  > - **Grade** 3.86 / 4.5 (3.94)
-  > - [**CS-HOME**](https://github.com/KGU-CS-HOME) 8th Team Leader <sub>23.01 ~ </sub>
-</details>
-
-<details>
-<summary>&ensp;<strong>APIS</strong> Frontend Developer <sub>23.06 ~ 23.08</sub></summary>
-  
-  > - [**Unieum**](https://www.unieum.kr/) &nbsp; | &nbsp; [KYOWON AI Challenge 🥇](https://github.com/wontory/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf)  
-</details>
-
-<details>
-<summary>&ensp;<strong>DDD</strong> 10th Web Frontend Developer <sub>23.11 ~ 24.03</sub></summary>
-  
-  > - [**WaggleWaggle**](https://waggle-dev.vercel.app/)(Rebuilding) &nbsp; | &nbsp; [Repository](https://github.com/DDD-Community/DDD-10-WABLE-WEB)
-</details>
-
-### Languages & Tools
-
-<img src="/images/pnpm-color.png" width="60" /><img src="/images/yarn-color.png" width="60" /><img src="/images/javascript-color.png" width="60" /><img src="/images/typescript-color.png" width="60" /><img src="/images/react-color.png" width="60" /><img src="/images/nextdotjs-color.png" width="60" /><img src="/images/astro-color.png" width="60" /><img src="/images/axios-color.png" width="60" /><img src="/images/redux-color.png" width="60" /><img src="/images/reactquery-color.png" width="60" /><img src="/images/tailwindcss-color.png" width="60" /><img src="/images/threedotjs-color.png" width="60" /><img src="/images/nestjs-color.png" width="60" /><img src="/images/amazonaws-color.png" width="60" /><img src="/images/visualstudiocode-color.png" width="60" /><img src="/images/figma-color.png" width="60" /><img src="/images/slack-color.png" width="60" /><img src="/images/notion-color.png" width="60" />
+> UI/UX에 높은 가치를 두고  
+> 시각적인 즐거움을 공유하고 싶은  
+> 프론트엔드 개발자, 조성원입니다.
+>
+> UI 라이브러리, 디자인 시스템, 애니메이션 등에 관심이 많습니다.  
+> 여러 서비스들을 관찰하며 디자이너/기획자의 숨겨진 의도를 파악하는 것을 즐깁니다.  
+> 사용자의 관점에서 어떻게 개선할 수 있을지 고민합니다.  
+>
+> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=TailwindCSS&logoColor=white)
