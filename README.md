@@ -14,7 +14,7 @@ UX/UI, 디자인 시스템, 애니메이션 등에 관심이 많습니다.
 ```
 
 [![wontory](https://img.shields.io/badge/wontory-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wontory/)
-[![wontory.dev](https://img.shields.io/badge/wontory.dev-FFFFFF?logo=Astro&logoColor=black)](https://www.wontory.dev/)
+[![wontory.dev](https://img.shields.io/badge/wontory.dev-000000?logo=Astro&logoColor=white)](https://www.wontory.dev/)
 
 **Contact**
 
