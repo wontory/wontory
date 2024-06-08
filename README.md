@@ -1,4 +1,7 @@
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=TailwindCSS&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=TailwindCSS&logoColor=white)
 
 ```
 다양한 관점에서 문제를 분석하고
@@ -10,10 +13,10 @@ UX/UI, 디자인 시스템, 애니메이션 등에 관심이 많습니다.
 사용자와 회사, 모두의 입장에서 어떻게 개선할 수 있을지 고민합니다.
 ```
 
-**Blog**
-
+[![wontory](https://img.shields.io/badge/wontory-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wontory/)
 [![wontory.dev](https://img.shields.io/badge/wontory.dev-FFFFFF?logo=Astro&logoColor=black)](https://www.wontory.dev/)
 
 **Contact**
 
-[![Kakao Mail](https://img.shields.io/badge/Kakao_Mail-FFCD00?logo=Kakao&logoColor=black)](tjddnjsjo@kakao.com) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white)](tjddnjsjo@kakao.com)
+[![Kakao Mail](https://img.shields.io/badge/tjddnjsjo@kakao.com-FFCD00?logo=Kakao&logoColor=black)](tjddnjsjo@kakao.com)
+[![Gmail](https://img.shields.io/badge/devwontory@gmail.com-EA4335?logo=Gmail&logoColor=white)](tjddnjsjo@kakao.com)
