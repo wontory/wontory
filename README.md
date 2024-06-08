@@ -11,7 +11,8 @@
 UX/UI, 디자인 시스템, 애니메이션 등에 관심이 많습니다.
 여러 서비스를 관찰하며 디자이너/기획자의 의도를 파악하는 것을 즐깁니다.
 사용자와 회사, 모두의 입장에서 어떻게 개선할 수 있을지 고민합니다.
-실전 경험을 통해 얻는 지식과 노하우를 선호합니다.
+실전 경험을 통해 얻는 지식과 노하우를 중시합니다.
+지식과 경험을 공유하여 함께 성장하는데 기여합니다.
 ```
 
 [![wontory](https://img.shields.io/badge/wontory-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wontory/)
