@@ -1,7 +1,9 @@
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=TailwindCSS&logoColor=white)
+<div align="center">
+  
+![wontory](https://tech-orbit.wontory.dev/api?tech=Typescript,React,Next.js,Tailwind%20CSS&size=500&title=wontory)  
+[**`tech-orbit`**](https://github.com/wontory/tech-orbit) by **wontory**
+
+</div>
 
 ```
 다양한 관점에서 문제를 분석하고
