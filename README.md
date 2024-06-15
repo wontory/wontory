@@ -22,7 +22,7 @@ UX/UI, 디자인 시스템, 애니메이션 등에 관심이 많습니다.
 **Experiences**
 
 > **DDD 10기 ·** Web Frontend Developer  
-> **아피스 ·** Frontend Developer <sub><sup>[유니음](https://www.unieum.kr/) · [제2회 교원그룹 AI 챌린지 대상 🥇](/wontory/blob/master/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf)</sup></sub>
+> **아피스 ·** Frontend Developer <sub><sup>[유니음](https://www.unieum.kr/) · [제2회 교원그룹 AI 챌린지 대상 🥇](/documents/제2회%20교원그룹%20AI챌린지%20대회%20대상.pdf)</sup></sub>
 
 **Contacts**
 
