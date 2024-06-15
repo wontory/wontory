@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/wontory/tech-orbit">
-    <img align="left" src="https://tech-orbit.wontory.dev/api?tech=Typescript,React,Next.js,Tailwind%20CSS&size=500&title=wontory" width="230"/>
+    <img align="left" src="https://tech-orbit.wontory.dev/api?tech=Typescript,React,Next.js,Tailwind%20CSS&size=500&title=wontory" width="224"/>
   </a>
 </div>
 
