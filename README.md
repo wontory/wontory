@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/wontory/tech-orbit">
-    <img align="right" src="https://tech-orbit.wontory.dev/api?tech=Typescript,React,Next.js,Tailwind%20CSS&size=500&title=wontory" width="190"/>
+    <img align="left" src="https://tech-orbit.wontory.dev/api?tech=Typescript,React,Next.js,Tailwind%20CSS&size=500&title=wontory" width="188"/>
   </a>
 </div>
 
@@ -15,10 +15,6 @@ UX/UI, 디자인 시스템, 애니메이션 등에 관심이 많습니다.
 실전 경험을 통해 얻는 지식과 노하우를 중시합니다.
 지식과 경험을 공유하여 함께 성장하는데 기여합니다.
 ```
-[![wontory](https://img.shields.io/badge/wontory-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wontory/)
-[![wontory.dev](https://img.shields.io/badge/wontory.dev-000000?logo=Astro&logoColor=white)](https://www.wontory.dev/)
-
----
 
 **Experiences**
 
@@ -28,4 +24,6 @@ UX/UI, 디자인 시스템, 애니메이션 등에 관심이 많습니다.
 **Contacts**
 
 [![Kakao Mail](https://img.shields.io/badge/tjddnjsjo@kakao.com-FFCD00?logo=Kakao&logoColor=black)](tjddnjsjo@kakao.com)
-[![Gmail](https://img.shields.io/badge/devwontory@gmail.com-EA4335?logo=Gmail&logoColor=white)](tjddnjsjo@kakao.com)
+[![Gmail](https://img.shields.io/badge/devwontory@gmail.com-EA4335?logo=Gmail&logoColor=white)](tjddnjsjo@kakao.com)  
+[![wontory](https://img.shields.io/badge/wontory-0A66C2?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wontory/)
+[![wontory.dev](https://img.shields.io/badge/wontory.dev-000000?logo=Astro&logoColor=white)](https://www.wontory.dev/)
