@@ -1,6 +1,7 @@
 <div align="center">
   
-[![wontory](https://tech-orbit.wontory.dev/api?tech=Typescript,React,Next.js,Tailwind%20CSS&size=500&title=wontory)](https://github.com/wontory/tech-orbit)  
+[<img src="https://tech-orbit.wontory.dev/api?tech=Typescript,React,Next.js,Tailwind%20CSS&size=500&title=wontory" alt="wontory"
+width="400px" />](https://github.com/wontory/tech-orbit)  
 
 ```
 𝚜𝚙𝚊𝚌𝚎𝚜𝚞𝚒𝚝𝚜 𝚊𝚗𝚍 𝚊𝚜𝚢𝚖𝚖𝚎𝚝𝚛𝚒𝚌 𝚜𝚑𝚊𝚙𝚎𝚜 𝚌𝚘𝚖𝚋𝚒𝚗𝚎𝚍
