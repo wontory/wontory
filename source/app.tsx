@@ -1,14 +1,11 @@
 import React from 'react'
-import { Text } from 'ink'
+import Gradient from 'ink-gradient'
+import BigText from 'ink-big-text'
 
-type Props = {
-  name: string | undefined
-}
-
-export default function App({ name = 'Stranger' }: Props) {
+export default function App({ name = 'wontory' }: { name?: string }) {
   return (
-    <Text>
-      Hello, <Text color="green">{name}</Text>
-    </Text>
+    <Gradient name="mind">
+      <BigText text={name} align="center" font="simple3d" />
+    </Gradient>
   )
 }
