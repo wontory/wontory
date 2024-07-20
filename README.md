@@ -6,5 +6,7 @@ width="400px" />](https://github.com/wontory/tech-orbit)
 </div>
 
 ```bash
+# Try typing it in the terminal!
+
 npx wontory
 ```
