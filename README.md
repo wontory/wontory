@@ -7,8 +7,10 @@
 ![Next.js](https://tech-stack.wontory.dev/api/badge?slug=nextdotjs&text=Next.js&highlight=true&textColor=000000&iconColor=000000&bgColor=ffffff)
 ![TanStack](https://tech-stack.wontory.dev/api/badge?slug=tanstack&text=TanStack&highlight=true&textColor=000000&bgColor=ff5a47)
 ![Tailwind CSS](https://tech-stack.wontory.dev/api/badge?slug=tailwindcss&text=Tailwind+CSS&highlight=true&textColor=ffffff&bgColor=006eff)
-![Motion](https://tech-stack.wontory.dev/api/badge?slug=framer&text=Motion&highlight=true&textColor=000000&iconColor=000000&bgColor=ffe047)  
+![Motion](https://tech-stack.wontory.dev/api/badge?slug=framer&text=Motion&highlight=true&textColor=000000&iconColor=000000&bgColor=ffe047)
+![Three.js](https://tech-stack.wontory.dev/api/badge?slug=threedotjs&text=Three.js&highlight=true&textColor=000000&bgColor=ffffff)  
 ![Astro](https://tech-stack.wontory.dev/api/badge?slug=astro&text=Astro&textColor=000000)
+![NestJS](https://tech-stack.wontory.dev/api/badge?slug=nestjs&text=NestJS&textColor=000000)
 ![Blender](https://tech-stack.wontory.dev/api/badge?slug=blender&text=Blender&textColor=000000)
 ![Claude Code](https://tech-stack.wontory.dev/api/badge?slug=claude&text=Claude+Code&textColor=000000)
 
